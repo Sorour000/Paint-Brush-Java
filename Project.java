@@ -210,7 +210,6 @@ public class Project extends JFrame {
         }
     }
 
-    // ================= SHAPE CLASS =================
     class ShapeObj {
         int x1, y1, x2, y2;
         Tool tool;
